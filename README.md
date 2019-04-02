@@ -1,5 +1,5 @@
 # DownTheStairs
-This is an application for a real-time detuning delay pedal effect.
+This is an application for a real-time detuning delay effect.
 
 "ViewController.swift" is the main code for this project.
 
