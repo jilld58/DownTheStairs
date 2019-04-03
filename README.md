@@ -5,7 +5,7 @@ This is an application for a real-time detuning delay effect.
 
 In order to run this application, download the zip file and open "finaldownthestairs.xcodeproj"
 
-In the menu bar, select "Product --> Run" or select the "Build and Run Current Scheme" button (looks like a play button) to build project. 
+In the menu bar, select "Product --> Run" or hit the "Build and Run Current Scheme" button to build project. 
 
 In the simulator, there are sliders/controls for:
 1. Speed of LFO
